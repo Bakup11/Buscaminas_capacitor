@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Buscaminas</string>
+    <string name="title_activity_main">Buscaminas</string>
+    <string name="package_name">com.Buscaminas.app</string>
+    <string name="custom_url_scheme">com.Buscaminas.app</string>
+</resources>
